@@ -108,7 +108,7 @@ With its robust ecosystem, Steam continues to be a significant player in the vid
 
 ---
 
-🚧 Project Overview  
+## 🚧 Project Overview  
 Ubisoft, a renowned French video game publisher, is planning to release a revolutionary new video game. To ensure its success, they have requested a comprehensive global analysis of the games available on the Steam marketplace.
 
 The goal is to understand the current video game ecosystem and analyze today's trends within the platform to help Ubisoft make data-driven decisions on their upcoming game release. By identifying successful game attributes, market preferences, and pricing models, Ubisoft aims to develop a game that resonates with players worldwide.
@@ -117,7 +117,7 @@ This analysis was conducted using Databricks, a collaborative data science platf
 
 ---
 
-🎯 Goals  
+##🎯 Goals  
 The primary objective of this project is to understand the factors that influence the popularity and sales of video games. However, Ubisoft also requested an in-depth global analysis of the video game market, leveraging the insights to gain a clearer picture of industry trends.
 
 Key goals of the project include:
@@ -130,7 +130,7 @@ Key goals of the project include:
 
 ---
 
-🖼️ Scope of the Project  
+## 🖼️ Scope of the Project  
 The project will analyze data from Steam’s marketplace to uncover patterns and trends across a variety of video game genres, player demographics, and market conditions. By doing so, we aim to:
 
 1. 🎯 Understand which game features attract the most attention.  
@@ -142,7 +142,7 @@ This analysis will provide Ubisoft with actionable insights for making informed 
 
 ---
 
-🔑 Key Data Points & Insights  
+## 🔑 Key Data Points & Insights  
 The analysis will focus on the following key aspects of the Steam marketplace:
 
 - 🎲 Game Genres: Popular genres, such as action, RPG, and strategy.  
@@ -151,7 +151,7 @@ The analysis will focus on the following key aspects of the Steam marketplace:
 
 ---
 
-🔍 Approach & Methodology  
+## 🔍 Approach & Methodology  
 To achieve the goals outlined above, the project will involve the following steps:
 
 1. 📥 Data Collection: Gather and clean comprehensive data from Steam, focusing on game titles, sales data, user ratings, and other key metrics.  
