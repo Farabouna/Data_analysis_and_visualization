@@ -117,7 +117,7 @@ This analysis was conducted using Databricks, a collaborative data science platf
 
 ---
 
-##🎯 Goals  
+## 🎯 Goals  
 The primary objective of this project is to understand the factors that influence the popularity and sales of video games. However, Ubisoft also requested an in-depth global analysis of the video game market, leveraging the insights to gain a clearer picture of industry trends.
 
 Key goals of the project include:
@@ -162,9 +162,11 @@ To achieve the goals outlined above, the project will involve the following step
 
 All of these steps were executed using Databricks for Big data handeling. 🖥️💡
 
-📂 Dataset
+---
+
+## 📂 Dataset  
 The analysis will be based on the Steam dataset, which includes detailed information about various games, user interactions, and sales data. The dataset is located at the following path:
 
-📥 **[Dataset Path](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)**  
+📥 **[Dataset Path](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)**
 
 🔎 Stay tuned for insights! 🚀
