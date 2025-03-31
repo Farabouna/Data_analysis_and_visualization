@@ -165,7 +165,7 @@ All of these steps were executed using Databricks for Big data handeling. 🖥�
 ---
 
 ## 📂 Dataset  
-The analysis will be based on the Steam dataset, which includes detailed information about various games, user interactions, and sales data. The dataset is located at the following path: s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
+The analysis will be based on the Steam dataset, which includes detailed information about various games, user interactions, and sales data. The dataset is located at the following path:
 
 📥 **[Dataset Path](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)**
 
