@@ -133,72 +133,37 @@ Key goals of the project include:
 🖼️ Scope of the Project  
 The project will analyze data from Steam’s marketplace to uncover patterns and trends across a variety of video game genres, player demographics, and market conditions. By doing so, we aim to:
 
-🎯 Understand which game features attract the most attention.
-
-🧑‍🤝‍🧑 Identify market segments with high potential.
-
-📅 Highlight emerging trends in gaming preferences.
-
-💸 Compare the success of various pricing models and game types.
+1. 🎯 Understand which game features attract the most attention.  
+2. 🧑‍🤝‍🧑 Identify market segments with high potential.  
+3. 📅 Highlight emerging trends in gaming preferences.  
+4. 💸 Compare the success of various pricing models and game types.  
 
 This analysis will provide Ubisoft with actionable insights for making informed decisions regarding game development, positioning, and marketing. 🚀
 
-🔑 Key Data Points & Insights
+---
+
+🔑 Key Data Points & Insights  
 The analysis will focus on the following key aspects of the Steam marketplace:
 
-🎮 Game Genres: Popular genres, such as action, RPG, and strategy.
+- 🎲 Game Genres: Popular genres, such as action, RPG, and strategy.  
+- 💰 Sales Data: Metrics like price, sales figures, and discount patterns.  
+- 👥 Community Interaction: Engagement metrics, such as reviews, user ratings, and community feedback.  
 
-🎲 Player Preferences: What players value most in games (e.g., story, gameplay, graphics).
+---
 
-💰 Sales Data: Metrics like price, sales figures, and discount patterns.
-
-👥 Community Interaction: Engagement metrics, such as reviews, user ratings, and community feedback.
-
-🔮 Market Trends: Emerging trends in gaming such as virtual reality (VR), cross-platform play, and multiplayer experiences.
-
-🔍 Approach & Methodology
+🔍 Approach & Methodology  
 To achieve the goals outlined above, the project will involve the following steps:
 
-📥 Data Collection: Gather and clean comprehensive data from Steam, focusing on game titles, sales data, user ratings, and other key metrics.
-Dataset Path: s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
+1. 📥 Data Collection: Gather and clean comprehensive data from Steam, focusing on game titles, sales data, user ratings, and other key metrics.  
+2. 📊 Exploratory Data Analysis (EDA): Analyze the dataset to identify patterns, trends, and insights.  
+3. 📈 Statistical Analysis: Apply statistical methods to understand the relationships between game attributes and their success.  
+4. 📉 Data Visualization: Create interactive charts and visualizations to present key findings and insights.  
+5. 🌍 Market Insights: Provide a clear analysis of the current and emerging trends in the video game industry.  
 
-📊 Exploratory Data Analysis (EDA): Analyze the dataset to identify patterns, trends, and insights.
-
-📈 Statistical Analysis: Apply statistical methods to understand the relationships between game attributes and their success.
-
-📉 Data Visualization: Create interactive charts and visualizations to present key findings and insights.
-
-🌍 Market Insights: Provide a clear analysis of the current and emerging trends in the video game industry.
-
-All of these steps were executed using Databricks for scalable and collaborative data processing. 🖥️💡
+All of these steps were executed using Databricks for Big data handeling. 🖥️💡
 
 📂 Dataset
 The analysis will be based on the Steam dataset, which includes detailed information about various games, user interactions, and sales data. The dataset is located at the following path:
 
-📥 Dataset Path
+📥 **[Dataset Path](s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json)**  
 
-📖 Dataset Description
-
-📊 Tools & Technologies
-This project was executed using the following tools and technologies:
-
-🖥️ Databricks: For collaborative data processing, analysis, and visualization.
-
-🐍 Python: For data manipulation, statistical analysis, and machine learning.
-
-📊 Pandas & NumPy: For data manipulation and analysis.
-
-📈 Matplotlib & Seaborn: For creating visualizations.
-
-📚 SQL: For querying and handling large datasets.
-
-📝 Final Deliverables
-The final project will deliver:
-
-📑 A detailed report highlighting key insights and recommendations.
-
-📊 Data visualizations that illustrate trends and factors affecting game success.
-
-🖥️ An interactive dashboard (optional) to explore the dataset and findings.
-
-📈 A strategic plan for Ubisoft based on data-driven insights.
