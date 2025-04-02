@@ -1,5 +1,5 @@
 # 📊 Data Analysis & Visualization Repository
-Welcome to the Data Analysis & Visualization repository! This repository contains projects focused on exploratory data analysis (EDA), statistical insights, and visual storytelling using real-world datasets.
+Welcome to the Data Analysis & Visualization Repository! This repository contains projects focused on exploratory data analysis (EDA), statistical insights, and visual storytelling using real-world datasets.
 
 ---
 
