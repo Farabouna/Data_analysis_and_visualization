@@ -1,4 +1,3 @@
-# Data_analysis_and_visualization
 # 📌 Speed Dating with Tinder
 
 ## 📇 Company's Description
